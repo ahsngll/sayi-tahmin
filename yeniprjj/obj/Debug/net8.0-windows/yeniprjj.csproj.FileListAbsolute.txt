@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\Masaüstü\ahsnGPPROJE\yeniprjj\yeniprjj\obj\Debug\net8.0-windows\yeniprjj.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\ahsnGPPROJE\yeniprjj\yeniprjj\obj\Debug\net8.0-windows\yeniprjj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\ahsnGPPROJE\yeniprjj\yeniprjj\obj\Debug\net8.0-windows\yeniprjj.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\ahsnGPPROJE\yeniprjj\yeniprjj\obj\Debug\net8.0-windows\yeniprjj.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\ahsnGPPROJE\yeniprjj\yeniprjj\obj\Debug\net8.0-windows\yeniprjj.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\ahsnGPPROJE\yeniprjj\yeniprjj\bin\Debug\net8.0-windows\yeniprjj.exe
+C:\Users\user\OneDrive\Masaüstü\ahsnGPPROJE\yeniprjj\yeniprjj\bin\Debug\net8.0-windows\yeniprjj.deps.json
+C:\Users\user\OneDrive\Masaüstü\ahsnGPPROJE\yeniprjj\yeniprjj\bin\Debug\net8.0-windows\yeniprjj.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\ahsnGPPROJE\yeniprjj\yeniprjj\bin\Debug\net8.0-windows\yeniprjj.dll
+C:\Users\user\OneDrive\Masaüstü\ahsnGPPROJE\yeniprjj\yeniprjj\bin\Debug\net8.0-windows\yeniprjj.pdb
+C:\Users\user\OneDrive\Masaüstü\ahsnGPPROJE\yeniprjj\yeniprjj\obj\Debug\net8.0-windows\yeniprjj.dll
+C:\Users\user\OneDrive\Masaüstü\ahsnGPPROJE\yeniprjj\yeniprjj\obj\Debug\net8.0-windows\refint\yeniprjj.dll
+C:\Users\user\OneDrive\Masaüstü\ahsnGPPROJE\yeniprjj\yeniprjj\obj\Debug\net8.0-windows\yeniprjj.pdb
+C:\Users\user\OneDrive\Masaüstü\ahsnGPPROJE\yeniprjj\yeniprjj\obj\Debug\net8.0-windows\yeniprjj.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\ahsnGPPROJE\yeniprjj\yeniprjj\obj\Debug\net8.0-windows\ref\yeniprjj.dll
+C:\Users\user\OneDrive\Masaüstü\ahsnGPPROJE\yeniprjj\yeniprjj\obj\Debug\net8.0-windows\yeniprjj.Form2.resources
